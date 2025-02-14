@@ -1,4 +1,4 @@
-# GM_Assignment
+# Search Artist Application
 
 ## Architecture
 MVVM with databinding, Coroutines, Repository.  
